@@ -1,0 +1,5 @@
+{
+  "name": "SportTrain AI",
+  "description": "A smart athletic companion that provides personalized exercise recommendations based on your chosen sport, powered by Gemini AI.",
+  "requestFramePermissions": []
+}
